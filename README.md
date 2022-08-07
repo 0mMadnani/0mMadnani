@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/0xom_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xom_m" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/om madnani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om madnani" height="30" width="40" /></a>
-<a href="https://discord.gg/OM MADNANI#7026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="OM MADNANI#7026" height="30" width="40" /></a>
+<a href="https://discord.gg/8Rtzgpk6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8Rtzgpk6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,4 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0mmadnani&show_icons=true&locale=en&layout=compact" alt="0mmadnani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0mmadnani&show_icons=true&locale=en" alt="0mmadnani" /></p>
+
 
