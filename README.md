@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Madnani</h1>
 <h3 align="center">A passionate blockchain developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0mmadnani&label=Profile%20views&color=0e75b6&style=flat" alt="0mmadnani" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0mmadnani" alt="0mmadnani" /></a> </p>
-
 - 🔭 I’m currently working on **Blockchain**
 
 - 🌱 I’m currently learning **DeFi**
