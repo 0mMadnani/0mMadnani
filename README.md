@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Solidity, DApps, Web3, Blockchain Dev**
 
-- 📫 How to reach me **omy6457@gmail.com**
+- 📫 How to reach me **0xomM@proton.me**
 
 - ⚡ Fun fact **Engaging in social media every day makes it less exciting and drops your base levels of dopamine**
 
