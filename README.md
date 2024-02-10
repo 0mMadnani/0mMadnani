@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0mmadnani&label=Profile%20views&color=0e75b6&style=flat" alt="0mmadnani" /> </p>
 
-- 🔭 I’m currently working on **Blockchain**
+- 🔭 I’m currently working on **Web App Security and Bug Bounty**
 
 - 🌱 I’m currently learning **DeFi**
 
 - 👯 I’m looking to collaborate on **anything intresting**
 
-- 💬 Ask me about **Solidity, DApps, Web3, Blockchain Dev**
+- 💬 Ask me about **Penetration testing, Solidity, DApps, Web3, Blockchain Dev**
 
 - 📫 How to reach me **0xomM@proton.me**
 
-- ⚡ Fun fact **Engaging in social media every day makes it less exciting and drops your base levels of dopamine**
+- ⚡ Fun fact **Nothing is Permanent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
